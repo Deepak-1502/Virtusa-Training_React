@@ -1,0 +1,29 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  p2 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  p3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  #time{
+    font-family: 'Times New Roman', Times, serif;
+    /* Most used professional font */
+}
+#cour{
+    font-family: 'Courier New', Courier, monospace;
+    /* most used monospace font used for coding displays ,screen ,emails */
+}
+#geo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+        /* most elegeant for mobile devices */
+
+}
+#brush{
+    font-family: sans-serif;
+    text-decoration: underline;
+    /* for hand written like imitation */
+}
